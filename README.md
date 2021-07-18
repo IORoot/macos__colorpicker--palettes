@@ -22,6 +22,7 @@ These are CLR colour palettes you can directly load into your apple colorpicker 
 | Pantone-pastel-neon v1  | [Pantone.com](https://www.pantone.com/uk/en/topic/swatches-chips-sheets) |
 | Pantone-skin v1  | [Pantone.com](https://www.pantone.com/uk/en/topic/swatches-chips-sheets) |
 | Pantone-uncoated v1  | [Pantone.com](https://www.pantone.com/uk/en/topic/swatches-chips-sheets) |
+| Pantone-fashion-interiors v1  | [Pantone.com](https://www.pantone.com/uk/en/topic/swatches-chips-sheets) |
 
 
 ## Install
@@ -63,6 +64,8 @@ Create a pull-request if you want to add any other official colour palettes.
 
 
 ## Changelog
+
+0.0.11 - Pantone-fashion-interiors
 
 0.0.10 - Pantone-coated, Pantone-metalic, Pantone-pastel-neon, Pantone-skin, Pantone-uncoated
 

@@ -26,9 +26,12 @@ You can install this file into your apple color-picker by running the colourpick
 colourpicker > Colour Palettes > (...) circle icon with three dots > open
 ```
 
-## official colorpicker tool
+## Import into Apple colorpicker panel
+
 **Note** that you can only access the official apple macos colorpicker tool through a different program like 'apple photos', 'sketch', 'photoshop', etc..
-If you wish to directly open the colorpicker tool as it's own application, see my other project that does eexactly that:
+
+If you wish to directly open the colorpicker tool as it's own application, see my other project that does exactly that:
+https://github.com/IORoot/macos__colorpicker--app
 
 
 ![Run JSONtoCLR](docs/video_loadclr.gif)

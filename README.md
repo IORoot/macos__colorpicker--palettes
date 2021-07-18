@@ -16,6 +16,7 @@ These are CLR colour palettes you can directly load into your apple colorpicker 
 | Ant.Design v4      | [Ant.Design](https://ant.design/docs/spec/colors) |
 | Tachyons v4        | [Tachyons.io](https://tachyons.io/#principles) |
 | Github Primer v1   | [Primer.style](https://primer.style/css/support/color-system) |
+| Copic v1           | [Copic.jp](https://copic.jp/en/color/)
 
 
 ## Install
@@ -57,6 +58,10 @@ Create a pull-request if you want to add any other official colour palettes.
 
 
 ## Changelog
+
+0.0.10 - Pantone-coated, Pantone-metalic, Pantone-pastel-neon, Pantone-skin, Pantone-uncoated
+
+0.0.9 - Copic Color v1
 
 0.0.8 - Github Primer v1
 

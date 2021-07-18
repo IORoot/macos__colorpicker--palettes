@@ -9,7 +9,7 @@ These are CLR colour palettes you can directly load into your apple colorpicker 
 | Colour Palette     | Offical Link                                                 |
 | ------------------ | ------------------------------------------------------------ |
 | TailwindCSS v2     | [tailwindcss.com](https://tailwindcss.com/docs/customizing-colors)              |
-| Google Material v1 | [material.io](https://material.io/design/color/the-color-system.html#tools-for-picking-colors) |
+| Google Material Design v1 | [material.io](https://material.io/design/color/the-color-system.html#tools-for-picking-colors) |
 | Bootstrap V5       | [getbootstrap.com](https://getbootstrap.com/docs/5.0/customize/color/)           |
 
 

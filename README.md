@@ -2,7 +2,7 @@
 
 ## What?
 
-These are CLR colour palettes you can directly load into your apple colorpicker tool. Currently has:
+These are CLR colour palettes you can directly load into your apple colorpicker tool.
 
 ![Run JSONtoCLR](docs/collections.png)
 

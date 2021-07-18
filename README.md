@@ -6,7 +6,7 @@ These are CLR colour palettes you can directly load into your apple colorpicker 
 
 ![Run JSONtoCLR](docs/collections.png)
 
-| Colour Palette     | Offical Link                                                 |
+| Colour Palette     | Official Link                                                 |
 | ------------------ | ------------------------------------------------------------ |
 | TailwindCSS v2     | [tailwindcss.com](https://tailwindcss.com/docs/customizing-colors)              |
 | Google Material Design v1 | [material.io](https://material.io/design/color/the-color-system.html#tools-for-picking-colors) |

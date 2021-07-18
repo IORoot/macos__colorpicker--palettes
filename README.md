@@ -10,9 +10,9 @@ These are CLR colour palettes you can directly load into your apple colorpicker 
 | ------------------ | ------------------------------------------------------------ |
 | TailwindCSS v2     | [tailwindcss.com](https://tailwindcss.com/docs/customizing-colors)              |
 | Google Material Design v1 | [material.io](https://material.io/design/color/the-color-system.html#tools-for-picking-colors) |
-| Bootstrap V5       | [getbootstrap.com](https://getbootstrap.com/docs/5.0/customize/color/)           |
-| Chakra-UI          | [chakra-ui.com](https://chakra-ui.com/) |
-
+| Bootstrap v5       | [getbootstrap.com](https://getbootstrap.com/docs/5.0/customize/color/)           |
+| Chakra-UI v1       | [chakra-ui.com](https://chakra-ui.com/) |
+| W3C CSS v1         | [w3.org](https://www.w3.org/wiki/CSS/Properties/color/keywords) |
 
 
 ## Install
@@ -54,6 +54,8 @@ Create a pull-request if you want to add any other official colour palettes.
 
 
 ## Changelog
+
+0.0.5 - W3C CSS v1
 
 0.0.4 - Chakra-UI v1
 

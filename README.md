@@ -38,10 +38,13 @@ https://github.com/IORoot/macos__colorpicker--app
 
 ## Create your own!
 
-Using my json-to-clr tool you can create any Apple CLR tools you wish. Create a pull-request if you want to add!
+Using my json-to-clr tool you can create any Apple CLR tools you wish. 
+https://github.com/IORoot/macos__json2clr--convert
+
+## Submit your own!
+Create a pull-request if you want to add any other official colour palettes.
 
 
 ## Changelog
 
 0.0.1 - Inital bundle. TailwindCSS v2 Palette.
-

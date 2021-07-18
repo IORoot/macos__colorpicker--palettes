@@ -14,6 +14,8 @@ These are CLR colour palettes you can directly load into your apple colorpicker 
 | Chakra-UI v1       | [chakra-ui.com](https://chakra-ui.com/) |
 | W3C CSS v1         | [w3.org](https://www.w3.org/wiki/CSS/Properties/color/keywords) |
 | Ant.Design v4      | [Ant.Design](https://ant.design/docs/spec/colors) |
+| Tachyons v4        | [Tachyons.io](https://tachyons.io/#principles) |
+| Github Primer v1   | [Primer.style](https://primer.style/css/support/color-system) |
 
 
 ## Install
@@ -55,6 +57,10 @@ Create a pull-request if you want to add any other official colour palettes.
 
 
 ## Changelog
+
+0.0.8 - Github Primer v1
+
+0.0.7 - Tachyons v4
 
 0.0.6 - Ant.Design v4
 

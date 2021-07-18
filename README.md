@@ -13,6 +13,7 @@ These are CLR colour palettes you can directly load into your apple colorpicker 
 | Bootstrap v5       | [getbootstrap.com](https://getbootstrap.com/docs/5.0/customize/color/)           |
 | Chakra-UI v1       | [chakra-ui.com](https://chakra-ui.com/) |
 | W3C CSS v1         | [w3.org](https://www.w3.org/wiki/CSS/Properties/color/keywords) |
+| Ant.Design v4      | [Ant.Design](https://ant.design/docs/spec/colors) |
 
 
 ## Install
@@ -54,6 +55,8 @@ Create a pull-request if you want to add any other official colour palettes.
 
 
 ## Changelog
+
+0.0.6 - Ant.Design v4
 
 0.0.5 - W3C CSS v1
 

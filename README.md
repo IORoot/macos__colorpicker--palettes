@@ -4,8 +4,14 @@
 
 These are CLR colour palettes you can directly load into your apple colorpicker tool. Currently has:
 
-- TailwindCSS v2 (https://tailwindcss.com/docs/customizing-colors)
-- Google Material v1 (https://material.io/design/color/the-color-system.html#tools-for-picking-colors)
+
+
+| Colour Palette     | Offical Link                                                 |
+| ------------------ | ------------------------------------------------------------ |
+| TailwindCSS v2     | [tailwindcss.com](https://tailwindcss.com/docs/customizing-colors)              |
+| Google Material v1 | [material.io](https://material.io/design/color/the-color-system.html#tools-for-picking-colors) |
+| Bootstrap V5       | [getbootstrap.com](https://getbootstrap.com/docs/5.0/customize/color/)           |
+
 
 
 ## Install

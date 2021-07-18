@@ -4,7 +4,8 @@
 
 These are CLR colour palettes you can directly load into your apple colorpicker tool. Currently has:
 
-- TailwindCSS v2
+- TailwindCSS v2 (https://tailwindcss.com/docs/customizing-colors)
+- Google Material v1 (https://material.io/design/color/the-color-system.html#tools-for-picking-colors)
 
 
 ## Install
@@ -46,5 +47,7 @@ Create a pull-request if you want to add any other official colour palettes.
 
 
 ## Changelog
+
+0.0.2 - Material Palette v1
 
 0.0.1 - Inital bundle. TailwindCSS v2 Palette.

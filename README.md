@@ -4,7 +4,7 @@
 
 These are CLR colour palettes you can directly load into your apple colorpicker tool.
 
-![Run JSONtoCLR](docs/collections.png)
+![Run JSONtoCLR](https://github.com/IORoot/macos__colorpicker--palettes/blob/497615f3405de477f3322fe77f0336acfff854b4/docs/collections.png)
 
 | Colour Palette     | Official Link                                                 |
 | ------------------ | ------------------------------------------------------------ |

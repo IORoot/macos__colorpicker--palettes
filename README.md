@@ -4,7 +4,7 @@
 
 These are CLR colour palettes you can directly load into your apple colorpicker tool.
 
-![Run JSONtoCLR](https://github.com/IORoot/macos__colorpicker--palettes/blob/497615f3405de477f3322fe77f0336acfff854b4/docs/collections.png)
+![Run JSONtoCLR](https://github.com/IORoot/macos__colorpicker--palettes/blob/497615f3405de477f3322fe77f0336acfff854b4/docs/collections.png?raw=true)
 
 | Colour Palette     | Official Link                                                 |
 | ------------------ | ------------------------------------------------------------ |
@@ -53,7 +53,7 @@ If you wish to directly open the colorpicker tool as it's own application, see m
 https://github.com/IORoot/macos__colorpicker--app
 
 
-![Run JSONtoCLR](docs/video_loadclr.gif)
+![Run JSONtoCLR](https://github.com/IORoot/macos__colorpicker--palettes/blob/ee62f0dbd737b03c75aa43ea0fe0d8a00debf82c/docs/video_loadclr.gif?raw=true)
 
 ## Create your own!
 

@@ -1,8 +1,38 @@
-# 🌈 Apple CLR Palettes
 
-## What?
+<div id="top"></div>
 
-These are CLR colour palettes you can directly load into your apple colorpicker tool.
+<div align="center">
+
+<div style="filter: invert(88%) sepia(22%) saturate(1487%) hue-rotate(104deg) brightness(92%) contrast(80%);">
+<img src="https://cdn.jsdelivr.net/npm/@mdi/svg@6.7.96/svg/palette.svg" style="width:200px;"/>
+</div>
+
+<h3 align="center">🌈 Apple CLR Palettes</h3>
+
+<p align="center">
+    These are CLR colour palettes you can directly load into your apple colorpicker tool.
+</p>    
+</div>
+
+##  1. <a name='TableofContents'></a>Table of Contents
+
+
+* 1. [Table of Contents](#TableofContents)
+* 2. [About The Project](#AboutTheProject)
+	* 2.1. [Built With](#BuiltWith)
+	* 2.2. [Installation](#Installation)
+* 3. [Usage](#Usage)
+	* 3.1. [Import into Apple colorpicker panel](#ImportintoApplecolorpickerpanel)
+* 4. [ Customising](#Customising)
+* 5. [Troubleshooting](#Troubleshooting)
+* 6. [Contributing](#Contributing)
+* 7. [License](#License)
+* 8. [Contact](#Contact)
+* 9. [Changelog](#Changelog)
+
+
+##  2. <a name='AboutTheProject'></a>About The Project
+
 
 ![Run JSONtoCLR](https://github.com/IORoot/macos__colorpicker--palettes/blob/497615f3405de477f3322fe77f0336acfff854b4/docs/collections.png?raw=true)
 
@@ -26,7 +56,21 @@ These are CLR colour palettes you can directly load into your apple colorpicker 
 | Crayola v1 | [Crayola.co.uk](http://www.crayola.co.uk/) |
 
 
-## Install
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+###  2.1. <a name='BuiltWith'></a>Built With
+
+This project was built with the following frameworks, technologies and software.
+
+* [ColourPicker Tool](https://github.com/IORoot/macos__colorpicker--app)
+* [JSON 2 CLR](https://github.com/IORoot/macos__json2clr--convert)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+###  2.2. <a name='Installation'></a>Installation
+
 
 Open terminal and run:
 ```
@@ -37,7 +81,11 @@ This will download this repo into your home /Downloads folder.
 Load any palette into any supporting Apple CLR software. (Default apple color-picker, colorslurp, etc...)
 
 
-## Usage
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+##  3. <a name='Usage'></a>Usage
+
 
 You can install this file into your apple color-picker by running the colourpicker and selecting the following options:
 
@@ -45,7 +93,7 @@ You can install this file into your apple color-picker by running the colourpick
 colourpicker > Colour Palettes > (...) circle icon with three dots > open
 ```
 
-## Import into Apple colorpicker panel
+###  3.1. <a name='ImportintoApplecolorpickerpanel'></a>Import into Apple colorpicker panel
 
 **Note** that you can only access the official apple macos colorpicker tool through a different program like 'apple photos', 'sketch', 'photoshop', etc..
 
@@ -55,37 +103,95 @@ https://github.com/IORoot/macos__colorpicker--app
 
 ![Run JSONtoCLR](https://github.com/IORoot/macos__colorpicker--palettes/blob/ee62f0dbd737b03c75aa43ea0fe0d8a00debf82c/docs/video_loadclr.gif?raw=true)
 
-## Create your own!
+
+##  4. <a name='Customising'></a> Customising
 
 Using my json-to-clr tool you can create any Apple CLR tools you wish. 
 https://github.com/IORoot/macos__json2clr--convert
 
-## Submit your own!
-Create a pull-request if you want to add any other official colour palettes.
+##  5. <a name='Troubleshooting'></a>Troubleshooting
+
+This is purely for Parkour Syllabus. No troubleshooting.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
-## Changelog
+##  6. <a name='Contributing'></a>Contributing
 
-0.0.12 - Crayola v1
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-0.0.11 - Pantone-fashion-interiors v1
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue.
+Don't forget to give the project a star! Thanks again!
 
-0.0.10 - Pantone-coated, Pantone-metalic, Pantone-pastel-neon, Pantone-skin, Pantone-uncoated
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-0.0.9 - Copic Color v1
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-0.0.8 - Github Primer v1
 
-0.0.7 - Tachyons v4
 
-0.0.6 - Ant.Design v4
+##  7. <a name='License'></a>License
 
-0.0.5 - W3C CSS v1
+Distributed under the MIT License.
 
-0.0.4 - Chakra-UI v1
+MIT License
 
-0.0.3 - Bootstrap v5
+Copyright (c) 2022 Andy Pearson
 
-0.0.2 - Material Palette v1
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-0.0.1 - Inital bundle. TailwindCSS v2 Palette.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+##  8. <a name='Contact'></a>Contact
+
+Author Link: [https://github.com/IORoot](https://github.com/IORoot)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+##  9. <a name='Changelog'></a>Changelog
+
+
+- 0.0.12 - Crayola v1
+
+- 0.0.11 - Pantone-fashion-interiors v1
+
+- 0.0.10 - Pantone-coated, Pantone-metalic, Pantone-pastel-neon, Pantone-skin, Pantone-uncoated
+
+- 0.0.9 - Copic Color v1
+
+- 0.0.8 - Github Primer v1
+
+- 0.0.7 - Tachyons v4
+
+- 0.0.6 - Ant.Design v4
+
+- 0.0.5 - W3C CSS v1
+
+- 0.0.4 - Chakra-UI v1
+
+- 0.0.3 - Bootstrap v5
+
+- 0.0.2 - Material Palette v1
+
+- 0.0.1 - Inital bundle. TailwindCSS v2 Palette.
